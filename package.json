@@ -6,6 +6,9 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/SunburntRock89/icq.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "echo \"April fools! Congratulations on being fooled! Go install discord.js\""
